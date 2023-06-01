@@ -10,6 +10,6 @@ Para la extracción de los datos de información térmica, se usa un algoritmo e
 
 
 
-![Creacion de Mascara](https://github.com/Brayanjurado1325/Angulos-de-hojas/blob/main/Imagenes/seleccionMas.png)
+![Creacion de Mascara](https://github.com/Brayanjurado1325/Angulos-de-hojas/blob/main/Imagenes/ebowl.png)
 
 ### Creacion de Mascara y extracccion de datos 
